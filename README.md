@@ -43,7 +43,7 @@
 | /fp status    | 查看假人状态    | fakeplayer.command.status    |                         |
 | /fp respawn   | 让死亡的假人复活  | fakeplayer.command.respawn   | 当服务器配置假人死亡时不踢出才会出现      |
 | /fp tp        | 传送到假人身边   | fakeplayer.command.tp        |                         |
-| /fp tphere    | 让假人传送到身边  | fakeplayer.command.tphere    |                         |
+| /fp tphers    | 让假人传送到身边  | fakeplayer.command.tphere    |                         |
 | /fp tps       | 与假人交换位置   | fakeplayer.command.tps       |                         |
 | /fp set       | 更改假人的配置   | fakeplayer.command.set       |                         |
 | /fp config    | 更改默认假人配置  | fakeplayer.command.config    |                         |
